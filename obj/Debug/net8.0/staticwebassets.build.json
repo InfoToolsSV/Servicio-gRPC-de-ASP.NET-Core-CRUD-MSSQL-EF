@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wnVYJI3WRdszLAvFKCEhB2DNFvTUb5M48vDJXWM2HB8=",
+  "Source": "LibraryGrpcService",
+  "BasePath": "_content/LibraryGrpcService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
